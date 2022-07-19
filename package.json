@@ -1,0 +1,11 @@
+{
+    "name": "axiom",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "ts": "tsc --watch"
+    },
+    "dependencies": {
+        "typescript": "4.7.4"
+    }
+}

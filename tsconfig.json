@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        // This is the important part
+        "lib": ["es5"],
+        "module": "none",
+        "outDir": "C:\\Users\\Bo\\Documents\\My Games\\Last Call BBS\\76561198000607852\\servers",
+        "target": "es5",
+
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "exactOptionalPropertyTypes": true,
+        "forceConsistentCasingInFileNames": true,
+        "importsNotUsedAsValues": "error",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noPropertyAccessFromIndexSignature": true,
+        "strict": true
+    },
+    "include": ["src"]
+}
